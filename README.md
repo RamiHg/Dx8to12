@@ -1,6 +1,6 @@
 # Dx8to12 - A DirectX 8 implementation on DirectX12.
 
-Dx8to12 implements the DirectX8 API on top of DirectX 12. The main functionality is completed. However, I haven't implemented parts of the API that weren't used in the games I was testing; for example, many of the getter functions like `GetTexture`.
+Dx8to12 implements the DirectX8 API on top of DirectX 12. The main functionality is complete. However, I haven't implemented parts of the API that weren't used in the games I was testing; for example, many of the getter functions like `GetTexture`.
 
 ## Supported Features
 
